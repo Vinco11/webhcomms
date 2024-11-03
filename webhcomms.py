@@ -8,3 +8,4 @@ while True:
 		"content": say,
 	}
     requests.post(webhook_url,postage)
+# credits to damien poptart and mrgenie151 #
