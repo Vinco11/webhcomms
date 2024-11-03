@@ -2,6 +2,13 @@ this is a small python script to make you able to send messages through a webhoo
 
 built for announcements
 
+currently supports
+text obviously
+emojis
+embeds
+links
+images are able to be seen if its an embed
+
 step by step guide below
 1. make your webhook ( you have to have the permission )
 2. get the webhook url
